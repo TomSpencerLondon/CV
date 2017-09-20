@@ -20,7 +20,7 @@ From my rich employment history I have gained a diverse set of skills, which equ
 
 - **Team-player** - I am a keen team player and am have been frequently praised for my cheerful and engaging interaction with fellow colleagues. The head master at my last school said: "It has been a real pleasure working with you over the last couple of years and you will be missed. I hope it all goes well with your new venture and that you will keep in touch."
 
-- **Commitment** - Frequently praised for my "superhuman efforts" I am a diligent and conscientious worker and was praised for my 100% A-C grade results for my Latin GCSE class.
+- **Commitment** -  Praised for my "superhuman efforts" I am a diligent and conscientious worker and was praised for my 100% A-C grade results for my Latin GCSE class.
 
 - **Curious** - I love learning and Makers Academy has made me more committed to developing my growth mindset on my journey to code craftsmanship.
 
