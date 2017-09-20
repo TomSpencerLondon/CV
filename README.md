@@ -6,7 +6,7 @@ An expert teacher and coder student @makersacademy
 
 I am a teacher now moving into Coding and training on the intensive 12 weeks of [Makers Academy](https://github.com/makersademy). I am running a coding blog and also a youtube site directed towards sharing things I have picked up on my coding journey.
 
-My varied work experience and interests enhance my understanding of the world and I have now developed a positive attitude to work which I continue to build on using research on learning and also on productivity. My undergraduate and postgraduate study  may seem like an unusual combination, but I have always had an aptitude for working with computers and my teaching practice has enabled me to explore online learning systems for young people including setting up a youtube site and website for my students: https://goo.gl/BnDrC7. My success in undergoing this transition is further evidence of my ability to work hard, learn rapidly, and adapt.
+My varied work experience and interests enhance my understanding of the world and I have now developed a positive attitude to work which I continue to build on using research on learning and also on productivity. My undergraduate and postgraduate study may seem like an unusual combination, but I have always had an aptitude for working with computers and my teaching practice has enabled me to explore online learning systems for young people including setting up a youtube site and website for my students. My success in undergoing the transition from teacher to coder is further evidence of my ability to work hard, learn rapidly, and adapt.
 
 From my rich employment history I have gained a diverse set of skills, which equip me to be a versatile employee. My experience in teaching and working with colleagues has helped develop my organisational, communication and interpersonal skills, meaning I am able to step into the leadership role when it is required of me but am equally comfortable assisting my colleagues to achieve a common goal. I believe my nontraditional career path allows me to approach this role from a unique perspective and use my creativity as an advantage. I look forward to hearing from you.
 
@@ -24,9 +24,9 @@ From my rich employment history I have gained a diverse set of skills, which equ
 
 - **Adaptable** - New environments, new languages, new teams, new challenges. I see these as opportunities as opposed to problems. In my role as a teacher I have worked with a huge diversity of people and settings. There is always a way to connect.
 
-- **Creative** - During my teaching career I was always looking for new ways to help students to help students to study and developed a youtube channel for students to access outside of school [![IMAGE ALT TEXT](http://img.youtube.com/vi/VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21/0.jpg)](http://www.youtube.com/watch?v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21 "Latin Year 7")
+- **Creative** - During my teaching career I was always looking for new ways to help students to help students to study and developed a youtube channel for students to access outside of school [![dispensator humanitatum](http://img.youtube.com/vi/VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21/0.jpg)](http://www.youtube.com/watch?v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21 "Latin Year 7")
 
-#### Analysis
+
 
 
 During my PhD I developed
