@@ -56,7 +56,7 @@ Youtube channel | Channel to help students develop linguistic skills | [<img src
 #### **The Cedars School** (January 2015 - June 2017) Teacher of Latin and French
 #### **CityLit College** (September 2014 - present) Part-time teacher of Ancient Greek
 #### **Tutor: English, French, History, Maths and Latin** (September 2013 - July 2016)
-#### **TEFL teacher** (August 2010 - 2012)
+#### **TEFL teacher** (August 2010 - 2012)
 #### **Teaching Assistant** (September 2007 - July 2010)
 #### **Tutor (self-employed)** (September 2003 - January 2007)
 #### **University Language Tutor** (September 2002 - July 2003)
