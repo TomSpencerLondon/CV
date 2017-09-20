@@ -33,5 +33,4 @@ From my rich employment history I have gained a diverse set of skills, which equ
 ## Projects and Code
 Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
-Youtube channel | Channel to help students develop linguistic skills | [<img src="https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png"
-alt="IMAGE ALT TEXT HERE"/>](http://www.youtube.com/watch?feature=player_embedded&v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) | Youtube | Self-testing |
+Youtube channel | Channel to help students develop linguistic skills | [<img src="https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png" alt="IMAGE ALT TEXT HERE"/>](http://www.youtube.com/watch?feature=player_embedded&v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) | Youtube | Self-testing |
