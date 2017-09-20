@@ -34,3 +34,44 @@ From my rich employment history I have gained a diverse set of skills, which equ
 Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
 Youtube channel | Channel to help students develop linguistic skills | [<img src="https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png" alt="IMAGE ALT TEXT HERE"/>](http://www.youtube.com/watch?feature=player_embedded&v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) | Youtube | Self-testing |
+
+## Education and Qualifications:
+
+#### Makers Academy (September 2017 - December 2017) Highly selective 12 week intensive coding bootcamp.
+
+- Test Driven Development, with an emphasis on pair programming and working agile way
+- Object oriented programming and software design
+-Full stack web development
+
+#### 2012-13 King’s College London: Classics PGCE
+#### 2010 South Thames College, Cambridge CELTA
+#### 2009 Bristol University, PhD in Classics
+#### 2002 	MA in Classics, Bristol University
+#### 2001 	BA in Classics with Study in Continental Europe, Bristol University (First Class Honours) (one year spent at the University of Lausanne)
+
+***
+
+### Experience
+
+**The Cedars School*** (January 2015 - June 2017)
+- Teacher of Latin and French
+**CityLit College*** (September 2014 - present)
+- Part-time teacher of Ancient Greek
+**Tutor: English, French, History, Maths and Latin (September 2013 - July 2016)
+**TEFL teacher** (August 2010 - 2012)
+**Teaching Assistant** (September 2007 - July 2010)
+**Tutor (self-employed)** (September 2003 - January 2007)
+**University Language Tutor** (September 2002 - July 2003)
+
+### Interests
+
+- **Music** - Jazz trumpet and piano
+- **Books** - Avid reader 
+- **Yoga** - Basic
+- **Meditation** - Basic
+
+### Contact
+- Github: [TomSpencerLondon](https://github.com/TomSpencerLondon)
+- Twitter: [@tomspencerr](https://twitter.com/TomSpencerr/media)
+- Codewars: https://www.codewars.com/users/TomSpencerLondon
+- Blog about coding: https://medium.com/@tomspencer_uk
