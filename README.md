@@ -22,7 +22,7 @@ From my rich employment history I have gained a diverse set of skills, which equ
 
 - **Commitment** - Frequently praised for my "superhuman efforts" I am a diligent and conscientious worker and was praised for my 100% A-C grade results for my Latin GCSE class.
 
-- **Inquisitive** - I love learning and Makers Academy has made me more committed to developing my growth mindset on my journey to code craftsmanship.
+- **Curious** - I love learning and Makers Academy has made me more committed to developing my growth mindset on my journey to code craftsmanship.
 
 - **Adaptable** - New environments, new languages, new teams, new challenges. I see these as opportunities as opposed to problems. In my role as a teacher I have worked with a huge diversity of people and settings. There is always a way to connect.
 
@@ -43,9 +43,9 @@ Youtube channel | Channel to help students develop linguistic skills | [<img src
 - Object oriented programming and software design
 -Full stack web development
 
-#### 2012-13 King’s College London: Classics PGCE
+#### 2012-13 King’s College London, Classics PGCE
 #### 2010 South Thames College, Cambridge CELTA
-#### 2009 Bristol University, PhD in Classics
+#### 2009 Bristol University, PhD in Classics
 #### 2002 	MA in Classics, Bristol University
 #### 2001 	BA in Classics with Study in Continental Europe, Bristol University (First Class Honours) (one year spent at the University of Lausanne)
 
@@ -53,11 +53,9 @@ Youtube channel | Channel to help students develop linguistic skills | [<img src
 
 ### Experience
 
-**The Cedars School*** (January 2015 - June 2017)
-- Teacher of Latin and French
-**CityLit College*** (September 2014 - present)
-- Part-time teacher of Ancient Greek
-**Tutor: English, French, History, Maths and Latin (September 2013 - July 2016)
+**The Cedars School*** (January 2015 - June 2017) Teacher of Latin and French
+**CityLit College** (September 2014 - present) Part-time teacher of Ancient Greek
+**Tutor: English, French, History, Maths and Latin** (September 2013 - July 2016)
 **TEFL teacher** (August 2010 - 2012)
 **Teaching Assistant** (September 2007 - July 2010)
 **Tutor (self-employed)** (September 2003 - January 2007)
@@ -66,7 +64,7 @@ Youtube channel | Channel to help students develop linguistic skills | [<img src
 ### Interests
 
 - **Music** - Jazz trumpet and piano
-- **Books** - Avid reader 
+- **Books** - Avid reader
 - **Yoga** - Basic
 - **Meditation** - Basic
 
