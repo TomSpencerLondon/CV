@@ -26,15 +26,12 @@ From my rich employment history I have gained a diverse set of skills, which equ
 
 - **Adaptable** - New environments, new languages, new teams, new challenges. I see these as opportunities as opposed to problems. In my role as a teacher I have worked with a huge diversity of people and settings. There is always a way to connect.
 
-- **Creative** - During my teaching career I was always looking for new ways to help students to help students to study and developed a youtube channel for students to access outside of school [<img src="https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png"
-alt="IMAGE ALT TEXT HERE"/>](http://www.youtube.com/watch?feature=player_embedded&v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21)
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21
-" target="_blank"><img src="https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png"
-alt="IMAGE ALT TEXT HERE"/></a>
+- **Creative** - During my teaching career I was always looking for new ways to help students to help students to study and developed a youtube channel for students to access outside of school.
 
 ***
 
 ## Projects and Code
 Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
+Youtube channel | Channel to help students develop linguistic skills | [<img src="https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png"
+alt="IMAGE ALT TEXT HERE"/>](http://www.youtube.com/watch?feature=player_embedded&v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) | Youtube | Self-testing |
