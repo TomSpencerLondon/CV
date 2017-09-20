@@ -34,7 +34,7 @@ From my rich employment history I have gained a diverse set of skills, which equ
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21
-" target="_blank"><img src="http://img.youtube.com/vi/VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21/0.jpg"
+" target="_blank"><img src="https://cloud.githubusercontent.com/assets/12953472/18688443/6021e65e-7f7c-11e6-9479-6ad58e3ab834.png"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ***
