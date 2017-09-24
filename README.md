@@ -4,29 +4,27 @@ An expert teacher and coder. Student @makersacademy
 ***
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@tomspencer_uk)
 ***
-I am a teacher now moving into Coding and training on the intensive 12 weeks of [Makers Academy](https://github.com/makersademy). I am running a coding blog and a youtube site directed towards sharing lessons I have picked up on my coding journey.
+I am a qualified and experienced Classics and Modern Languages teacher currently training on the intensive 12 weeks of [Makers Academy](https://github.com/makersademy). Building on my work as a scholar of linguistics, I am now enthusiastically engaging with the discipline of computer languages. My coding [Blog](https://medium.com/@tomspencer_uk) and [youtube](https://www.youtube.com/watch?v=7l7ubsZwRwg&t=1s) site document my reflections on the intellectual and practical lessons learned as I make this transition.
 
-My varied work experience and interests enhance my understanding of the world and I have now developed a positive attitude to work which I continue to build on using research on learning and also on productivity. My undergraduate and postgraduate study may seem like an unusual combination, but I have always had an aptitude for working with computers and my teaching practice has enabled me to explore online learning systems for young people including setting up a youtube site and website for my students. My success in undergoing the transition from teacher to coder is further evidence of my ability to work hard, learn rapidly, and adapt.
+As a postgraduate student at Bristol University, a lecturer and school teacher I have acquired strong skills in researching, organising and communicating complex material to diverse audiences. This background has attracted me to becoming a professional web developer. I see coding as a craft which requires carefully paced management of multi-faceted data for end-users. For example, I established a flourishing Classics department at a Secondary school in Croydon. When I took up the post as the sole Classics teacher I was faced with reluctant and uncooperative students. I realised that I needed to draw on multimedia to enable them to develop independent translation skills. I set up a [youtube]( https://www.youtube.com/watch?v=VM4ScXd5CkA&index=21&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb) channel which I used to communicate brief and to the point advice for learning. Students engaged whole heartedly with this measured approach and performance and homework completion increased exponentially.
 
-From my rich employment history I have gained a diverse set of skills, which equip me to be a versatile employee. My experience in teaching and working with colleagues has helped develop my organisational, communication and interpersonal skills, meaning I am able to step into the leadership role when it is required of me but am equally comfortable assisting my colleagues to achieve a common goal. I believe my nontraditional career path allows me to approach this role from a unique perspective and use my creativity as an advantage. I look forward to hearing from you.
+My experience in team working with colleagues has helped develop my organisational and interpersonal skills. I am able to move into a leadership role when it is required of me. I am equally comfortable assisting my colleagues to achieve a common goal.
 
 ***
 
 ## Skills
 
-- **Communication** - Throughout my career I have focussed on being an effective communicator. Teaching Ancient Greek, Latin and French to a wide range of students from varied walks of life has taught me the importance of clarity and careful explanation to ensure understanding.
+- **Communicator** - Teaching Ancient Greek, Latin and French to a wide range of students from varied walks of life has taught me the importance of clarity and careful explanation to ensure understanding.
 
-- **Enthusiastic** - Whilst at Makers Academy I have maintained a [blog](https://medium.com/@tomspencer_uk) about learning to code. I have also taken an active role in workshops and in the tech community more generally with regular attendance and contribution to the Codecademy meet-up at CitizenM.
+- **Enthusiastic** - Whilst at Makers Academy I have maintained a [blog](https://medium.com/@tomspencer_uk) about learning to code. I have also taken an active role in workshops and in the tech community more generally with regular attendance and contribution to the Codecademy meet-up at CitizenM and attendance at Hackathons.
 
-- **Team-player** - I am a keen team player and am have been frequently praised for my cheerful and engaging interaction with fellow colleagues. The head master at my last school said: "It has been a real pleasure working with you over the last couple of years and you will be missed. I hope it all goes well with your new venture and that you will keep in touch."
+- **Team-player** - I was the head of the Classics Department at my secondary school but also worked as part of a team in Modern Languages. As an experienced jazz trumpeter I worked with the music department to establish a flourishing jazz ensemble, orchestra and choir.
 
-- **Commitment** -  Praised for my "superhuman efforts" I am a diligent and conscientious worker and was praised for my 100% A-C grade results for my Latin GCSE class.
+- **Committed** -  Praised for my "superhuman efforts" I am a diligent and conscientious worker and achieved A-C grade results for my Latin GCSE class.
 
-- **Curious** - I love learning and Makers Academy has made me more committed to developing my growth mindset on my journey to code craftsmanship.
+- **Creative** - My PhD on Augustan literature at Bristol was commended for its "original contribution" to Classical studies drawing, as it did, on contemporary literary and philosophical sources.  
 
 - **Adaptable** - New environments, new languages, new teams, new challenges. I see these as opportunities as opposed to problems. In my role as a teacher I have worked with a huge diversity of people and settings. There is always a way to connect.
-
-- **Creative** - During my teaching career I was always looking for new ways to help students to help students to study and developed a youtube channel for students to access outside of school.
 
 ***
 
@@ -43,8 +41,8 @@ Youtube channel | Channel to help students develop linguistic skills | [<img src
 - Object oriented programming and software design
 -Full stack web development
 
-#### 2012-13 King’s College London, Classics PGCE
-#### 2010 South Thames College, Cambridge CELTA
+#### 2012-13 King’s College London, Classics Postgraduate Certificate in Education.
+#### 2010 South Thames College, CELTA (Teaching English as a Second Language)
 #### 2009 Bristol University, PhD in Classics
 #### 2002 	MA in Classics, Bristol University
 #### 2001 	BA in Classics with Study in Continental Europe, Bristol University (First Class Honours) (one year spent at the University of Lausanne)
@@ -53,18 +51,15 @@ Youtube channel | Channel to help students develop linguistic skills | [<img src
 
 ### Experience
 
-#### **The Cedars School** (January 2015 - June 2017) Teacher of Latin and French
-#### **CityLit College** (September 2014 - present) Part-time teacher of Ancient Greek
-#### **Tutor: English, French, History, Maths and Latin** (September 2013 - July 2016)
-#### **TEFL teacher** (August 2010 - 2012)
-#### **Teaching Assistant** (September 2007 - July 2010)
-#### **Tutor (self-employed)** (September 2003 - January 2007)
-#### **University Language Tutor** (September 2002 - July 2003)
+#### **The Cedars School** (January 2015 - July 2017) Teacher of Latin and French
+#### **CityLit College** (September 2014 - May 2017) Part-time Lecturer in Ancient Greek, Latin and Classical Literature
+#### **Private Tutor: English, French, History, Maths and Latin** (September 2013 - July 2016)
+#### **Teaching English as a Foreign Language teacher (LAL college London)** (August 2010 - 2012)
+#### **Primary School Teaching Assistant** (September 2007 - July 2010)
 
 ### Interests
 
-- **Music** - Jazz trumpet and piano
-- **Books** - Avid reader
+- **Music** - Jazz trumpet, piano, guitar and Logic programming. I play regularly with various orchestras including the [Rebel Yell Orchestra](https://www.youtube.com/watch?v=oY3XAV5X0cs)
 - **Yoga** - Basic
 - **Meditation** - Basic
 
