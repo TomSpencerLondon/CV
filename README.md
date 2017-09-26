@@ -6,9 +6,6 @@ An expert teacher and coder. Student @makersacademy
 ***
 I am a qualified and experienced Classics and Modern Languages teacher currently training on the intensive 12 weeks of [Makers Academy](https://github.com/makersademy). Building on my work as a scholar of linguistics, I am now enthusiastically engaging with the discipline of computer languages. My coding [blog](https://medium.com/@tomspencer_uk) and [youtube](https://www.youtube.com/watch?v=7l7ubsZwRwg&t=1s) site document my reflections on the intellectual and practical lessons learned as I make this transition.
 
-As a postgraduate student at Bristol University, a lecturer and school teacher I have acquired strong skills in researching, organising and communicating complex material to diverse audiences. This background has attracted me to becoming a professional web developer. I see coding as a craft which requires carefully paced management of multi-faceted data for end-users. For example, I established a flourishing Classics department at a Secondary school in Croydon. When I took up the post as the sole Classics teacher I was faced with reluctant and uncooperative students. I realised that I needed to draw on multimedia to enable them to develop independent translation skills. I set up a [youtube]( https://www.youtube.com/watch?v=VM4ScXd5CkA&index=21&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb) channel which I used to communicate brief and to the point advice for learning. Students engaged whole heartedly with this measured approach and performance and homework completion increased exponentially.
-
-My experience in team working with colleagues has helped develop my organisational and interpersonal skills. I am able to move into a leadership role when it is required of me. I am equally comfortable assisting my colleagues to achieve a common goal.
 
 ***
 
