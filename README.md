@@ -28,7 +28,7 @@ I am a qualified and experienced Classics and Modern Languages teacher currently
 ## Projects and Code
 Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
-Artvark | Shazam for Art | [<i class="fa fa-github" style="font-size:48px;color:red"></i>](https://slides.com/rmcollins/deck/review#/1) | Python, Django, Scikit Learn |  |
+Artvark | Shazam for Art | <i class="fa fa-github" style="font-size:48px;color:red"></i> | Python, Django, Scikit Learn |  |
 
 ## Education and Qualifications:
 
