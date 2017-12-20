@@ -28,7 +28,7 @@ I am a qualified and experienced Classics and Modern Languages teacher currently
 ## Projects and Code
 Project | Description | Code/Demo Links | Technologies Used | Testing Technologies
 --- | --- | --- | --- | ---
-Artvark | Shazam for Art | [![github](https://raw.githubusercontent.com/tomspencerlondon/codewars/master/Ruby/Authored/github.png)](https://github.com/edlowther/shazam_for_art)| Python, Django, Scikit Learn | pytest |
+Artvark | Shazam for Art | [![github](https://raw.githubusercontent.com/adrianeyre/codewars/master/Ruby/Authored/github.png)](https://github.com/edlowther/shazam_for_art)| Python, Django, Scikit Learn | pytest |
 
 ## Education and Qualifications:
 
