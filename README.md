@@ -26,8 +26,8 @@ __Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, Java
 ## Skills
 
 #### Creativity
-* Self starter: [youtube_channel](https://www.youtube.com/watch?v=JyM_sRkGaME)
-* Interested in e-learning: [youtube channel](https://www.youtube.com/watch?v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) with 200 videos to front-load my lessons for student understanding. 
+* Self starter: [Rails Mastery](https://www.youtube.com/watch?v=JyM_sRkGaME) - videos on Rails.
+* Interest Latin in e-learning: [Dispensator Humanitatum](https://www.youtube.com/watch?v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) with 200 videos to front-load my lessons for student understanding. 
 * Curious: [podcast](https://makersacademy.podbean.com/) documenting my journey through Makers Academy. 
 * Original: My PhD on Augustan literature at Bristol was commended for its "original contribution" to Classical studies drawing, as it did, on contemporary literary and philosophical sources.  
 
