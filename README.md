@@ -4,11 +4,16 @@
 
 ## About 
 
-After retraining to become a developer, at my current company Homeflow I have continued to deepen my interest and expertise in coding through a determined, enthusiastic and carefully considered approach. I very much enjoy working at a mid-sized SAAS company and working there has allowed me to work on APIs, Rails and RSpec testing in particular. Lead developer, Bob Farrell, creator of bpython (https://github.com/bpython/bpython) and keen open source contributor (https://github.com/bobf?tab=repositories), has proven to be an excellent mentor and I have seized this opportunity to sharpen my craft. At Homeflow I am now responsible for our property feeds application which interacts with several property based APIs including Reapit. I have upgraded our google analytics application to Rails 5.2 and am gradually becoming more involved in dev-ops with growing expertise in Ansible and Docker. I am generous in sharing knowledge through my work with recent new recruits and I continue to develop my coding and communication skills with outside projects and regular contribution to our weekly in-house code club (Fridays - 15.00).
+After retraining to become a developer, at my current company Homeflow I have continued to deepen my interest and expertise in coding through a determined, enthusiastic and carefully considered approach. This mid-sized SAAS company has allowed me to work on APIs, Rails and RSpec testing on a broad code base. Lead developer, Bob Farrell, creator of bpython (https://github.com/bpython/bpython) and keen open source contributor (https://github.com/bobf?tab=repositories), has proven to be an excellent mentor and I have seized this opportunity to sharpen my craft. At Homeflow I have: 
+* become responsible for our property feeds application which interacts with several property based APIs including Reapit. 
+* upgraded our google analytics application to Rails 5.2.
+* worked in dev-ops with growing expertise in Ansible and Docker. 
+* shared knowledge with recent new recruits. 
+* continued to develop my coding and communication skills with outside projects and regular contribution to our weekly in-house code club (Fridays - 15.00).
 
 As a languages teacher and college lecturer I explored online learning systems and built electronic study resources for my own students, including a website and ran an after-school coding club. I am well-organised, inventive, experienced in team working and a good communicator.
 
-__Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, SQL, Pair-Programming, Agile, XP Values, AWS, Docker, Ansible
+__Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, SQL, Pair-Programming, Agile, XP Values, AWS, Docker, Ansible.
 
 ## Outside Projects
 
