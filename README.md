@@ -83,5 +83,5 @@ New environments, new languages, new teams, new challenges. I see these as oppor
 ### Contact
 - Github: [TomSpencerLondon](https://github.com/TomSpencerLondon)
 - Twitter: [@tomspencerr](https://twitter.com/TomSpencerr/media)
-- Youtube: [Rais Mastery](https://www.youtube.com/watch?v=JyM_sRkGaME)
+- Youtube: [Rails Mastery](https://www.youtube.com/watch?v=JyM_sRkGaME)
 - Blog about coding: https://medium.com/@tomspencer_uk
