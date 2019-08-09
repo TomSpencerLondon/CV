@@ -75,4 +75,4 @@ __Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, Java
 - Github: [TomSpencerLondon](https://github.com/TomSpencerLondon)
 - Twitter: [@tomspencerr](https://twitter.com/TomSpencerr/media)
 - Youtube: [Rails Mastery](https://www.youtube.com/watch?v=JyM_sRkGaME)
-- Blog about coding: https://medium.com/@tomspencer_uk
+- Medium: [Blog about coding](https://medium.com/@tomspencer_uk)
