@@ -4,13 +4,8 @@
 
 ## About 
 
-Homeflow a midsized SAAS company I have: 
-* worked with excellent mentors such as Bob Farrell, creator of [bpython](https://github.com/bpython/bpython) and keen [open source contributor](https://github.com/bobf?tab=repositories)
-* become responsible for our property feeds application which interacts with several property based APIs including Reapit. 
-* upgraded our google analytics application to Rails 5.2.
-* worked in dev-ops with growing expertise in Ansible and Docker. 
-* shared knowledge with recent new recruits. 
-* develop edmy coding and communication skills with outside projects and regular contribution to weekly in-house code club.
+At Homeflow, a midsized SAAS company, I have worked with excellent mentors such as Bob Farrell, creator of [bpython](https://github.com/bpython/bpython) and keen [open source contributor](https://github.com/bobf?tab=repositories). I have become responsible for our property feeds application which interacts with several property based APIs including Reapit. 
+I have upgraded our google analytics application to Rails 5.2. I have worked in dev-ops with growing expertise in Ansible and Docker. I have shared knowledge with recent new recruits and developed my coding and communication skills with outside projects and regular contribution to weekly in-house code club.
 
 As a languages teacher and college lecturer I explored online learning systems and built electronic study resources for my own students, including a website and ran an after-school coding club. I am well-organised, inventive, experienced in team working and a good communicator.
 
@@ -45,9 +40,6 @@ __Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, Java
 #### Committed
 * Homeflow mentor praised my "diligence and perseverence" and code that is always "by the book".
 * Praised for my "superhuman efforts" I am a diligent and conscientious worker and achieved A-C grade results for my Latin GCSE class.
-
-#### Adaptable 
-New environments, new languages, new teams, new challenges. I see these as opportunities as opposed to problems. In my role as a teacher I worked with a huge diversity of people and settings. In my role as a coder I have learnt the importance of silent introspective diligence within a team environment. There is always a way to connect.
 
 ## Experience
 
