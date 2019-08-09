@@ -4,39 +4,51 @@
 
 ## About 
 
-I have an aptitude for working with computers. As a languages teacher and college lecturer I explored online learning systems and built electronic study resources for my own students, including a website. I ran an after-school coding club. I am well-organised, inventive, experienced in team working and a good communicator.
+After retraining to become a developer, at my current company Homeflow I have continued to deepen my interest and expertise in coding through a determined, enthusiastic and carefully considered approach. I very much enjoy working at a mid-sized SAAS company and working there has allowed me to work on APIs, Rails and RSpec testing in particular. Lead developer, Bob Farrell, creator of bpython (https://github.com/bpython/bpython) and keen open source contributor (https://github.com/bobf?tab=repositories), has proven to be an excellent mentor and I have seized this opportunity to sharpen my craft. At Homeflow I am now responsible for our property feeds application which interacts with several property based APIs including Reapit. I have upgraded our google analytics application to Rails 5.2 and am gradually becoming more involved in dev-ops with growing expertise in Ansible and Docker. I am generous in sharing knowledge through my work with recent new recruits and I continue to develop my coding and communication skills with outside projects and regular contribution to our weekly in-house code club (Fridays - 15.00).
 
-At Homeflow I have continued to deepen my interest and expertise in coding through a determined, enthusiastic and carefully considered approach. I very much enjoy working at a mid-sized SAAS company and working there has allowed me to work on APIS, Rails and RSpec testing in particular. Lead developer, Bob Farrell, creator of bpython (https://github.com/bpython/bpython) and keen open source contributor (https://github.com/bobf?tab=repositories), has proven to be an excellent mentor and I have seized this opportunity to sharpen my craft. I am also generous in sharing knowledge through my work with recent new recruits and I continue to develop my coding and communication skills with regular contribution to our weekly in-house code club (Fridays - 15.00).
+As a languages teacher and college lecturer I explored online learning systems and built electronic study resources for my own students, including a website and ran an after-school coding club. I am well-organised, inventive, experienced in team working and a good communicator.
 
-__Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, SQL, Pair-Programming, Agile, XP Values, Version Control
+__Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, SQL, Pair-Programming, Agile, XP Values, AWS, Docker, Ansible
 
-## Projects
+## Outside Projects
 
 | GitHub Repo | Description | Tech | Product 
 | ----------- | ----------- | ---- | ------- 
 | [Shazam_for_Art](https://github.com/TomSpencerLondon/shazam_for_art)| A Python application using Machine Learning to name the correct artist of a painting | Python, Django, Sci-kit learn | [Presentation](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater)
-| [Meet-Me-Halfway](https://github.com/chayyasyal/meet-me-halfway) | An API that tells two friends the best place to meet | JavaScript, Node.js, Google APIs | [Here](https://github.com/chayyasyal/meet-me-halfway)
-| [Bowling_Score_Board](https://github.com/TomSpencerLondon/bowling-challenge)| A JavaScript application for scoring bowling| JavaScript, JQuery |  [Here](https://github.com/chayyasyal/meet-me-halfway)
+| [Shouter](https://github.com/TomSpencerLondon/Shouter) | A Facebook style application | Rails, Javascript, ElasticSearch | [Here](https://vast-atoll-20319.herokuapp.com/)
+| [Bank](https://github.com/TomSpencerLondon/bank_application)| A Rails banking application with Rails, React and full testing| Rails, React |  [Here](https://bankapporganiser.herokuapp.com/)
 
 ## Skills
 
 #### Creativity
-I have designed, communicated and effectively delivered Latin, French and Ancient Greek lessons to a wide range of students from school to retirement age. I also organised [youtube channel](https://www.youtube.com/watch?v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) with 200 videos to front-load my lessons for student understanding. I also took part in a [podcast](https://makersacademy.podbean.com/) documenting my journey through Makers Academy. My PhD on Augustan literature at Bristol was commended for its "original contribution" to Classical studies drawing, as it did, on contemporary literary and philosophical sources.  
+* Self starter: [youtube_channel](https://www.youtube.com/watch?v=JyM_sRkGaME)
+* Interested in e-learning: [youtube channel](https://www.youtube.com/watch?v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) with 200 videos to front-load my lessons for student understanding. 
+* Curious: [podcast](https://makersacademy.podbean.com/) documenting my journey through Makers Academy. 
+* Original: My PhD on Augustan literature at Bristol was commended for its "original contribution" to Classical studies drawing, as it did, on contemporary literary and philosophical sources.  
 
 
-#### Enthusiastic 
-Whilst at Makers Academy I have maintained a [blog](https://medium.com/@tomspencer_uk) about learning to code. I have also taken an active role in workshops and in the tech community more generally with regular attendance and contribution to the Codecademy meet-up at CitizenM and attendance at Hackathons.
+#### Enthusiastic
+* Home coding projects to develop more understanding of DSL and coding patterns.
+* Shared experiences: [blog](https://medium.com/@tomspencer_uk) about learning to code. 
+* Interested: Google campus hackathon, Brighton Ruby Conference.
 
-#### Team-player 
-I was the head of the Classics Department at my secondary school but also worked as part of a team in Modern Languages. As an experienced jazz trumpeter I worked with the music department to establish a flourishing jazz ensemble, orchestra and choir.
+#### Team-player
+* Homeflow code-club organiser (Fridays 15:00).
+* Head of the Classics Department at my secondary school and part of a team in Modern Languages. 
+* As an experienced jazz trumpeter I worked with the music department to establish a flourishing jazz ensemble, orchestra and choir.
 
-#### Committed  
-Praised for my "superhuman efforts" I am a diligent and conscientious worker and achieved A-C grade results for my Latin GCSE class.
+#### Committed
+* Homeflow mentor praised my "diligence and perseverence" and code that is always "by the book".
+* Praised for my "superhuman efforts" I am a diligent and conscientious worker and achieved A-C grade results for my Latin GCSE class.
 
 #### Adaptable 
-New environments, new languages, new teams, new challenges. I see these as opportunities as opposed to problems. In my role as a teacher I have worked with a huge diversity of people and settings. There is always a way to connect.
+New environments, new languages, new teams, new challenges. I see these as opportunities as opposed to problems. In my role as a teacher I worked with a huge diversity of people and settings. In my role as a coder I have learnt the importance of silent introspective diligence within a team environment. There is always a way to connect.
 
 ## Experience
+
+**Homeflow**(January 2018 - present)
+*Developer*
+- Contributor and fellow custodian of broad SAAS Homeflow platform, dev-ops contribution, pair-programmer and knowledge-sharer. 
 
 **The Cedars School** (January 2015 - July 2017) 
 *Teacher of Latin and French*
@@ -66,5 +78,5 @@ New environments, new languages, new teams, new challenges. I see these as oppor
 ### Contact
 - Github: [TomSpencerLondon](https://github.com/TomSpencerLondon)
 - Twitter: [@tomspencerr](https://twitter.com/TomSpencerr/media)
-- Codewars: https://www.codewars.com/users/TomSpencerLondon
+- Youtube: [Rais Mastery](https://www.youtube.com/watch?v=JyM_sRkGaME)
 - Blog about coding: https://medium.com/@tomspencer_uk
