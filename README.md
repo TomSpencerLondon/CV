@@ -4,7 +4,7 @@
 
 ## About 
 
-After retraining to become a developer, at my current company Homeflow I have continued to deepen my interest and expertise in coding through a determined, enthusiastic and carefully considered approach. This mid-sized SAAS company has allowed me to work on APIs, Rails and RSpec testing on a broad code base. Lead developer, Bob Farrell, creator of bpython (https://github.com/bpython/bpython) and keen open source contributor (https://github.com/bobf?tab=repositories), has proven to be an excellent mentor and I have seized this opportunity to sharpen my craft. At Homeflow I have: 
+After retraining to become a developer, at my current company Homeflow I have continued to deepen my interest and expertise in coding through a determined, enthusiastic and carefully considered approach. This mid-sized SAAS company has allowed me to work on APIs, Rails and RSpec testing on a broad code base. Lead developer, Bob Farrell, creator of [bpython](https://github.com/bpython/bpython) and keen [open source contributor](https://github.com/bobf?tab=repositories), has proven to be an excellent mentor and I have seized this opportunity to sharpen my craft. At Homeflow I have: 
 * become responsible for our property feeds application which interacts with several property based APIs including Reapit. 
 * upgraded our google analytics application to Rails 5.2.
 * worked in dev-ops with growing expertise in Ansible and Docker. 
@@ -19,14 +19,14 @@ __Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, Java
 
 | GitHub Repo | Description | Tech | Product 
 | ----------- | ----------- | ---- | ------- 
-| [Shazam_for_Art](https://github.com/TomSpencerLondon/shazam_for_art)| A Python application using Machine Learning to name the correct artist of a painting | Python, Django, Sci-kit learn | [Presentation](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater)
+| [Shazam for Art](https://github.com/TomSpencerLondon/shazam_for_art)| A Python application using Machine Learning to name the correct artist of a painting | Python, Django, Sci-kit learn | [Presentation](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater)
 | [Shouter](https://github.com/TomSpencerLondon/Shouter) | A Facebook style application | Rails, Javascript, ElasticSearch | [Here](https://vast-atoll-20319.herokuapp.com/)
 | [Bank](https://github.com/TomSpencerLondon/bank_application)| A Rails banking application with Rails, React and full testing| Rails, React |  [Here](https://bankapporganiser.herokuapp.com/)
 
 ## Skills
 
 #### Creativity
-* Self starter: [Rails Mastery](https://www.youtube.com/watch?v=JyM_sRkGaME) - videos on Rails.
+* Self starter: [Rails Mastery](https://www.youtube.com/watch?v=JyM_sRkGaME) - Youtube channel to share knowledge of Ruby on Rails.
 * Interest Latin in e-learning: [Dispensator Humanitatum](https://www.youtube.com/watch?v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) with 200 videos to front-load my lessons for student understanding. 
 * Curious: [podcast](https://makersacademy.podbean.com/) documenting my journey through Makers Academy. 
 * Original: My PhD on Augustan literature at Bristol was commended for its "original contribution" to Classical studies drawing, as it did, on contemporary literary and philosophical sources.  
