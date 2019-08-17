@@ -4,7 +4,7 @@
 
 ## About 
 
-At Homeflow, a midsized SAAS company, I have worked with excellent mentors such as Bob Farrell, creator of [bpython](https://github.com/bpython/bpython) and keen [open source contributor](https://github.com/bobf?tab=repositories). I have become responsible for our property feeds application which interacts with several property based APIs including Reapit. 
+At Homeflow, a midsized SAAS company, I have worked with excellent mentors such as Bob Farrell, creator of [bpython](https://github.com/bpython/bpython) and keen [open source contributor](https://github.com/bobf?tab=repositories). I am responsible for our property feeds application which interacts with several property based APIs including Reapit. 
 I have upgraded our google analytics application to Rails 5.2. I have worked in dev-ops with growing expertise in Ansible and Docker. I have shared knowledge with recent new recruits and developed my coding and communication skills with outside projects and regular contribution to weekly in-house code club.
 
 As a languages teacher and college lecturer I explored online learning systems and built electronic study resources for my own students, including a website and ran an after-school coding club. I am well-organised, inventive, experienced in team working and a good communicator.
@@ -23,7 +23,7 @@ __Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, Java
 
 #### Creativity
 * Self starter: [Rails Mastery](https://www.youtube.com/watch?v=JyM_sRkGaME) - Youtube channel to share knowledge of Ruby on Rails.
-* Interest Latin in e-learning: [Dispensator Humanitatum](https://www.youtube.com/watch?v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) with 200 videos to front-load my lessons for student understanding. 
+* Interest Latin in e-learning: [Dispensator Humanitatum](https://www.youtube.com/watch?v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) with 100 videos to front-load my lessons for student understanding. 
 * Original: My PhD on Augustan literature at Bristol was commended for its "original contribution" to Classical studies drawing, as it did, on contemporary literary and philosophical sources.  
 
 
