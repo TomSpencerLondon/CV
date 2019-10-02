@@ -10,6 +10,8 @@ I am looking for a role where I can continue to grow my expertise in Ruby - whil
 
 Before switching career, I was working as a languages teacher and college lecturer where I practiced and honed my people skills, communication skills, attention to detail and strong work ethic. I particularly enjoyed teaching Ancient Greek, producing online lessons and organising a series of lectures on Herodotus.
 
+Colleagues might describe me as creative, because of my interest in Classical literature - enthusiastic, because of my 
+
 __Tech Skills__: Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, SQL, Pair-Programming, Agile, XP Values, AWS, Docker, Ansible.
 
 ## Projects
