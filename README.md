@@ -8,8 +8,12 @@ Two years ago I graduated from Makers Academy, described by Forbes as "London’
 
 ## About 
 
-At Homeflow, a midsized SAAS company, I have worked with excellent mentors such as Bob Farrell, creator of [bpython](https://github.com/bpython/bpython) and keen [open source contributor](https://github.com/bobf?tab=repositories). I am responsible for our property feeds application which interacts with several property based APIs including Reapit. 
-I have upgraded our google analytics application to Rails 5.2. I have worked in dev-ops with growing expertise in Ansible and Docker. I have shared knowledge with recent new recruits and developed my coding and communication skills with outside projects and regular contribution to weekly in-house code club.
+At Homeflow, a midsized SAAS company, I have worked with excellent mentors such as Bob Farrell, creator of [bpython](https://github.com/bpython/bpython) and keen [open source contributor](https://github.com/bobf?tab=repositories). 
+
+I am responsible for our property feeds application which interacts with several property based APIs including Reapit. 
+I have upgraded our google analytics application to Rails 5.2. 
+
+I have worked in dev-ops with growing expertise in Ansible and Docker. I have shared knowledge with recent new recruits and developed my coding and communication skills with outside projects and regular contribution to weekly in-house code club.
 
 As a languages teacher and college lecturer I explored online learning systems and built electronic study resources for my own students, including a website and ran an after-school coding club. I am well-organised, inventive, experienced in team working and a good communicator.
 
@@ -17,11 +21,15 @@ __Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, Java
 
 ## Projects
 
-| GitHub Repo | Description | Tech | Product 
-| ----------- | ----------- | ---- | ------- 
-| [Shazam for Art](https://github.com/TomSpencerLondon/shazam_for_art), personal time| A Python application using Machine Learning to name the correct artist of a painting | Python, Django, Sci-kit learn | [Presentation](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater)
-| [Shouter](https://github.com/TomSpencerLondon/Shouter), personal time| A Facebook style application | Rails, Javascript, ElasticSearch | [Here](https://vast-atoll-20319.herokuapp.com/)
-| [Bank](https://github.com/TomSpencerLondon/bank_application), personal time| A Rails banking application with Rails, React and full testing| Rails, React |  [Here](https://bankapporganiser.herokuapp.com/)
+| GitHub Repo | Description | Tech | Product | Date 
+| ----------- | ----------- | ---- | ------- | ----
+| [Shazam for Art](https://github.com/TomSpencerLondon/shazam_for_art), personal time| A Python application using Machine Learning to name the correct artist of a painting | Python, Django, Sci-kit learn | [Presentation](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater)| Dec, 2017
+| [Shouter](https://github.com/TomSpencerLondon/Shouter), personal time| A Facebook style application | Rails, Javascript, ElasticSearch | [Here](https://vast-atoll-20319.herokuapp.com/)| Dec, 2018 
+| [Bank](https://github.com/TomSpencerLondon/bank_application), personal time| A Rails banking application with Rails, React and full testing| Rails, React |  [Here](https://bankapporganiser.herokuapp.com/)| February 2019
+|Private | Improved the presentation of property pages for our partners| HTML, CSS, Javascript, Ruby| [Homeflow](https://www.homeflow.co.uk/) | May 2018
+|Private| Reduce API error rate for our integration with Reapit, Rightmove and Zoopla| Ruby, SQL| [Homeflow](https://www.homeflow.co.uk/) | Dec 2018
+|Private| Build internal tool to better present test results from our home-built continuous integration system | Ruby, Postgres| [Homeflow](https://www.homeflow.co.uk/)| January 2019
+|Private| Rails upgrade for internal lead tracking system | Rails, Ruby| [Homeflow](https://www.homeflow.co.uk/) | March 2019
 
 ## Skills
 
