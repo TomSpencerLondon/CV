@@ -1,6 +1,10 @@
 # Tom Spencer
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
+
+## Personal Statement
+
+Two years ago I graduated from Makers Academy, described by Forbes as "London’s leading software development boot camp". After graduation, I joined Homeflow, a midsized SAAS company, as a developer working with a talented team of ten developers. In this role I worked on perfectioning my web development skills with Ruby and Rails by taking more and more challenging projects over time. Lately, my focus has been mostly on API features, improving the quality and coverage of unit tests, and performing complex Ruby and Rails upgrades. I am looking for a role where I can continue to grow my expertise in Ruby - while also trying other languages - within a medium sized team that practices agile, high quality testing, with a culture focused on learning and craftsmanship.
 
 ## About 
 
@@ -11,13 +15,13 @@ As a languages teacher and college lecturer I explored online learning systems a
 
 __Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, SQL, Pair-Programming, Agile, XP Values, AWS, Docker, Ansible.
 
-## Outside Projects
+## Projects
 
 | GitHub Repo | Description | Tech | Product 
 | ----------- | ----------- | ---- | ------- 
-| [Shazam for Art](https://github.com/TomSpencerLondon/shazam_for_art)| A Python application using Machine Learning to name the correct artist of a painting | Python, Django, Sci-kit learn | [Presentation](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater)
-| [Shouter](https://github.com/TomSpencerLondon/Shouter) | A Facebook style application | Rails, Javascript, ElasticSearch | [Here](https://vast-atoll-20319.herokuapp.com/)
-| [Bank](https://github.com/TomSpencerLondon/bank_application)| A Rails banking application with Rails, React and full testing| Rails, React |  [Here](https://bankapporganiser.herokuapp.com/)
+| [Shazam for Art](https://github.com/TomSpencerLondon/shazam_for_art), personal time| A Python application using Machine Learning to name the correct artist of a painting | Python, Django, Sci-kit learn | [Presentation](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater)
+| [Shouter](https://github.com/TomSpencerLondon/Shouter), personal time| A Facebook style application | Rails, Javascript, ElasticSearch | [Here](https://vast-atoll-20319.herokuapp.com/)
+| [Bank](https://github.com/TomSpencerLondon/bank_application), personal time| A Rails banking application with Rails, React and full testing| Rails, React |  [Here](https://bankapporganiser.herokuapp.com/)
 
 ## Skills
 
