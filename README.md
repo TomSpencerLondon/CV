@@ -26,7 +26,7 @@ __Tech Skills__: Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, S
 
 ## Skills
 
-#### Creativity
+#### Creative
 * Self starter: [Rails Mastery](https://www.youtube.com/watch?v=JyM_sRkGaME) - Youtube channel to share knowledge of Ruby on Rails.
 * Interest Latin in e-learning: [Dispensator Humanitatum](https://www.youtube.com/watch?v=VM4ScXd5CkA&list=PLhhkrQZ2EUKwmtj99Xz95r6rpRnGZ5Brb&index=21) with 100 videos to front-load my lessons for student understanding. 
 * Original: My PhD on Augustan literature at Bristol was commended for its "original contribution" to Classical studies drawing, as it did, on contemporary literary and philosophical sources.  
