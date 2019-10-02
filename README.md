@@ -6,16 +6,7 @@
 
 Two years ago I graduated from Makers Academy, described by Forbes as "London’s leading software development boot camp". After graduation, I joined Homeflow, a midsized SAAS company, as a developer working with a talented team of ten developers. In this role I worked on perfectioning my web development skills with Ruby and Rails by taking more and more challenging projects over time. Lately, my focus has been mostly on API features, improving the quality and coverage of unit tests, and performing complex Ruby and Rails upgrades. I am looking for a role where I can continue to grow my expertise in Ruby - while also trying other languages - within a medium sized team that practices agile, high quality testing, with a culture focused on learning and craftsmanship.
 
-## About 
-
-At Homeflow, a midsized SAAS company, I have worked with excellent mentors such as Bob Farrell, creator of [bpython](https://github.com/bpython/bpython) and keen [open source contributor](https://github.com/bobf?tab=repositories). 
-
-I am responsible for our property feeds application which interacts with several property based APIs including Reapit. 
-I have upgraded our google analytics application to Rails 5.2. 
-
-I have worked in dev-ops with growing expertise in Ansible and Docker. I have shared knowledge with recent new recruits and developed my coding and communication skills with outside projects and regular contribution to weekly in-house code club.
-
-As a languages teacher and college lecturer I explored online learning systems and built electronic study resources for my own students, including a website and ran an after-school coding club. I am well-organised, inventive, experienced in team working and a good communicator.
+Before switching career, I was working as a languages teacher and college lecturer where I practiced and honed my people skills, communication skills, attention to detail and strong work ethic. I particularly enjoyed teaching Ancient Greek, producing online lessons and organising a series of lectures on Herodotus.
 
 __Tech Skills__: OOP, TDD, SOLID, MVC, Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, SQL, Pair-Programming, Agile, XP Values, AWS, Docker, Ansible.
 
