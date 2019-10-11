@@ -75,16 +75,16 @@ __Tech Skills__: Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, S
 ### Education
 
 **King's College London: Classics PGCE** (2013-2013)
-Teacher training Classics
+*Teacher training Classics*
 
 **South Thames College, Cambridge CELTA** (2010)
-TEFL teacher training
+*TEFL teacher training*
 
 **Bristol University, PhD in Classics** (2009)
-Walking through Rome: Walking and a Construction of Subjectivity: A Study of Three Augustan Poets
+*Walking through Rome: Walking and a Construction of Subjectivity: A Study of Three Augustan Poets*
 
 **MA in Classics, Bristol University** (2002)
-Thesis on Ovid's Ars Amatoria
+*Thesis on Ovid's Ars Amatoria*
 
 **BA in Classics with French, Bristol University (First Class Honours)** (2001)
 
