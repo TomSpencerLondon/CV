@@ -4,13 +4,11 @@
 
 ## Personal Statement
 
+I am an enthusiastic software developer looking for a role where I can continue to grow my expertise in Ruby - while also trying other languages - within a medium sized team that practices agile, high quality testing, with a culture focused on learning and craftsmanship. Colleagues might describe me as creative, a team player and committed.
+
 Two years ago I graduated from Makers Academy, described by Forbes as "London’s leading software development boot camp". After graduation, I joined a SAAS on-line real estate management company as a developer working with a talented team of ten. In this role I have worked on perfecting my web development skills with Ruby and Rails by taking more challenging projects over time. I have continued to improve my style of programming - with elements of TDD, OOP and refactoring - and my knowledge of the Ruby eco-system by reading open source library code and building my own. Lately, I have been focusing on APIs, improving tests quality and coverage, and complex Rails upgrades.
 
-I am looking for a role where I can continue to grow my expertise in Ruby - while also trying other languages - within a medium sized team that practices agile, high quality testing, with a culture focused on learning and craftsmanship.
-
 Before switching career, I was working as a languages teacher and college lecturer where I practiced and honed my people skills, communication skills, attention to detail and strong work ethic. I particularly enjoyed teaching Ancient Greek, producing online lessons and organising a series of lectures on Herodotus.
-
-Colleagues might describe me as creative, enthusiastic, a team player and committed.
 
 __Tech Skills__: Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, SQL, Pair-Programming, Agile, XP Values, AWS, Docker, Ansible.
 
