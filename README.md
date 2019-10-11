@@ -72,6 +72,14 @@ __Tech Skills__: Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, S
 **Primary School Teaching Assistant** (September 2007 - July 2010)
 *Learning Support Assistant*
 
+### Education
+
+**King's College London: Classics PGCE** (2013-2013)
+**South Thames College, Cambridge CELTA** (2010)
+**Bristol University, PhD in Classics** (2009)
+**MA in Classics, Bristol University** (2002)
+**BA in Classics with French, Bristol University (First Class Honours)** (2001)
+
 ### Interests
 
 - **Music** - Jazz trumpet, piano, guitar and Logic programming. I play regularly with various orchestras including the [Rebel Yell Orchestra](https://www.youtube.com/watch?v=oY3XAV5X0cs)
