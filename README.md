@@ -1,3 +1,4 @@
+<div style="page-break-after: always;">
 # Tom Spencer
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests)
@@ -24,7 +25,7 @@ __Tech Skills__: Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, S
 |Private| Build internal tool to better present test results from our home-built continuous integration system | Ruby, Postgres| [Homeflow](https://www.homeflow.co.uk/)| January 2019
 |Private| Rails upgrade for internal lead tracking system | Rails, Ruby| [Homeflow](https://www.homeflow.co.uk/) | March 2019
 
-<div style="page-break-after: always;"></div>
+</div>
 
 ## Experience
 
