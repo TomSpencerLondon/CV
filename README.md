@@ -25,8 +25,11 @@ __Tech Skills__: Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, S
 |Private| Rails upgrade for internal lead tracking system | Rails, Ruby| [Homeflow](https://www.homeflow.co.uk/) | March 2019
 
 ## Experience
+**Codurance**(February 2020 - present)
+*Developer*
+- Software Apprentice - training for qualification to become Software craftsperson
 
-**Homeflow**(January 2018 - present)
+**Homeflow**(January 2018 - January 2020)
 *Developer*
 - Contributor and fellow custodian of broad SAAS Homeflow platform, dev-ops contribution, pair-programmer and knowledge-sharer. 
 
