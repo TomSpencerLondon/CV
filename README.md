@@ -6,7 +6,9 @@
 
 I am an enthusiastic software developer looking for a role where I can continue to grow my expertise in Ruby - while also trying other languages - within a medium sized team that practices agile, high quality testing, with a culture focused on learning and craftsmanship. Colleagues might describe me as creative, a team player and committed.
 
-Two years ago I graduated from Makers Academy, described by Forbes as "London’s leading software development boot camp". After graduation, I joined a SAAS on-line real estate management company as a developer working with a talented team of ten. In this role I have worked on perfecting my web development skills with Ruby and Rails by taking more challenging projects over time. I have continued to improve my style of programming - with elements of TDD, OOP and refactoring - and my knowledge of the Ruby eco-system by reading open source library code and building my own. Lately, I have been focusing on APIs, improving tests quality and coverage, and complex Rails upgrades.
+Two years ago I graduated from Makers Academy, described by Forbes as "London’s leading software development boot camp". Following graduation from the rigorous Codurance Academy I am now working as a Software Craftsman at Codurance in preparation for team assignment.
+
+For my first job after graduation from Makers, I joined a SAAS on-line real estate management company as a developer working with a talented team of ten. In this role I worked on perfecting my web development skills with Ruby and Rails by taking more challenging projects over time. I continued to improve my style of programming - with elements of TDD, OOP and refactoring - and my knowledge of the Ruby eco-system by reading open source library code and building my own. We also worked extensively on APIs, improving tests quality and coverage, and complex Rails upgrades.
 
 Before switching career, I was working as a languages teacher and college lecturer where I practiced and honed my people skills, communication skills, attention to detail and strong work ethic. I particularly enjoyed teaching Ancient Greek, producing online lessons and organising a series of lectures on Herodotus.
 
@@ -25,7 +27,11 @@ __Tech Skills__: Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, S
 |Private| Rails upgrade for internal lead tracking system | Rails, Ruby| [Homeflow](https://www.homeflow.co.uk/) | March 2019
 
 ## Experience
-**Codurance**(February 2020 - present)
+**Codurance**(June 2020 - present)
+*Developer*
+- Software Craftsman - continued study and development for team assignment
+
+**Codurance**(February 2020 - June 2020)
 *Developer*
 - Software Apprentice - training for qualification to become Software craftsperson
 
