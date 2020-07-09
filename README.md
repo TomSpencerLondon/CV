@@ -28,7 +28,7 @@ __Tech Skills__: Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, S
 
 ## Experience
 **Codurance**(June 2020 - present)
-*Developer*
+*Craftsman*
 - Software Craftsman - continued study and development for team assignment
 
 **Codurance**(February 2020 - June 2020)
