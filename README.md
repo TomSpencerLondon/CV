@@ -18,13 +18,18 @@ __Tech Skills__: Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, S
 
 | GitHub Repo | Description | Tech | Product | Date 
 | ----------- | ----------- | ---- | ------- | ----
-| [Shazam for Art](https://github.com/TomSpencerLondon/shazam_for_art), personal time| A Python application using Machine Learning to name the correct artist of a painting | Python, Django, Sci-kit learn | [Presentation](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater)| Dec, 2017
-| [Shouter](https://github.com/TomSpencerLondon/Shouter), personal time| A Facebook style application | Rails, Javascript, ElasticSearch | [Here](https://vast-atoll-20319.herokuapp.com/)| Dec, 2018 
-| [Bank](https://github.com/TomSpencerLondon/bank_application), personal time| A Rails banking application with Rails, React and full testing| Rails, React |  [Here](https://bankapporganiser.herokuapp.com/)| February 2019
-|Private | Improved the presentation of property pages for our partners| HTML, CSS, Javascript, Ruby| [Homeflow](https://www.homeflow.co.uk/) | May 2018
-|Private| Reduce API error rate for our integration with Reapit, Rightmove and Zoopla| Ruby, SQL| [Homeflow](https://www.homeflow.co.uk/) | Dec 2018
-|Private| Build internal tool to better present test results from our home-built continuous integration system | Ruby, Postgres| [Homeflow](https://www.homeflow.co.uk/)| January 2019
+|[Retropolis](https://github.com/codurance/Retropolis-BE | Retro application for agile teams | [Retropolis](https://retropolis.codurance.io) | May 2020
 |Private| Rails upgrade for internal lead tracking system | Rails, Ruby| [Homeflow](https://www.homeflow.co.uk/) | March 2019
+| [Bank](https://github.com/TomSpencerLondon/bank_application), personal time| A Rails banking application with Rails, React and full testing| Rails, React |  [Here](https://bankapporganiser.herokuapp.com/)| February 2019
+|Private| Build internal tool to better present test results from our home-built continuous integration system | Ruby, Postgres| [Homeflow](https://www.homeflow.co.uk/)| January 2019
+|Private| Reduce API error rate for our integration with Reapit, Rightmove and Zoopla| Ruby, SQL| [Homeflow](https://www.homeflow.co.uk/) | Dec 2018
+|Private | Improved the presentation of property pages for our partners| HTML, CSS, Javascript, Ruby| [Homeflow](https://www.homeflow.co.uk/) | May 2018
+| [Shouter](https://github.com/TomSpencerLondon/Shouter), personal time| A Facebook style application | Rails, Javascript, ElasticSearch | [Here](https://vast-atoll-20319.herokuapp.com/)| Dec, 2018
+| [Shazam for Art](https://github.com/TomSpencerLondon/shazam_for_art), personal time| A Python application using Machine Learning to name the correct artist of a painting | Python, Django, Sci-kit learn | [Presentation](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater)| Dec, 2017
+
+
+
+
 
 ## Experience
 **Codurance**(June 2020 - present)
