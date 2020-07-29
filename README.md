@@ -4,7 +4,7 @@
 
 ## Personal Statement
 
-I am an enthusiastic software developer looking for a role where I can continue to grow my expertise in Ruby - while also trying other languages - within a medium sized team that practices agile, high quality testing, with a culture focused on learning and craftsmanship. Colleagues might describe me as creative, a team player and committed.
+I am an enthusiastic software developer looking for a role where I can continue to grow my expertise in TDD and Java - while also trying other languages - within a medium sized team that practices agile, high quality testing, with a culture focused on learning and craftsmanship. Colleagues might describe me as creative, a team player and committed.
 
 Two years ago I graduated from Makers Academy, described by Forbes as "London’s leading software development boot camp". Following graduation from the rigorous Codurance Academy I am now working as a Software Craftsman at Codurance in preparation for team assignment.
 
