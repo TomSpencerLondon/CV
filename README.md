@@ -18,7 +18,7 @@ __Tech Skills__: Ruby, Ruby on Rails, Sinatra, Rspec, JavaScript, React, Jest, S
 
 | GitHub Repo | Description | Tech | Product | Date 
 | ----------- | ----------- | ---- | ------- | ----
-|[Retropolis](https://github.com/codurance/Retropolis-BE | Retro application for agile teams | [Retropolis](https://retropolis.codurance.io) | May 2020
+|[Retropolis](https://github.com/codurance/Retropolis-BE) | Retro application for agile teams | Java, React | [Retropolis](https://retropolis.codurance.io) | May 2020
 |Private| Rails upgrade for internal lead tracking system | Rails, Ruby| [Homeflow](https://www.homeflow.co.uk/) | March 2019
 | [Bank](https://github.com/TomSpencerLondon/bank_application), personal time| A Rails banking application with Rails, React and full testing| Rails, React |  [Here](https://bankapporganiser.herokuapp.com/)| February 2019
 |Private| Build internal tool to better present test results from our home-built continuous integration system | Ruby, Postgres| [Homeflow](https://www.homeflow.co.uk/)| January 2019
