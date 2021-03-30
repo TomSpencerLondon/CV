@@ -12,7 +12,7 @@ For my first job after graduation from Makers, I joined a SAAS on-line real esta
 
 Before switching career, I was working as a languages teacher and college lecturer where I practiced and honed my people skills, communication skills, attention to detail and strong work ethic. I particularly enjoyed teaching Ancient Greek, producing online lessons and organising a series of lectures on Herodotus.
 
-__Tech Skills__: Ruby, Ruby on Rails, Sinatra, RSpec, JavaScript, React, Jest, SQL, Pair-Programming, Agile, XP Values, AWS, Docker, Ansible.
+__Tech Skills__: Typescript, React, Java, Ruby, Ruby on Rails, Sinatra, RSpec, JavaScript, React, Jest, SQL, Pair-Programming, Agile, XP Values, AWS, Docker, Ansible.
 
 ## Projects
 
