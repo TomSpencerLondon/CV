@@ -6,7 +6,7 @@
 
 I am an enthusiastic software developer looking for a role where I can continue to grow my expertise in TDD and Java - while also trying other languages - within a medium sized team that practices agile, high quality testing, with a culture focused on learning and craftsmanship. Colleagues might describe me as creative, a team player and committed.
 
-Two years ago I graduated from Makers Academy, described by Forbes as "London’s leading software development boot camp". Following graduation from the rigorous Codurance Academy I am now working as a Software Craftsman at Codurance in preparation for team assignment.
+I graduated from Makers Academy in 2017, described by Forbes as "London’s leading software development boot camp". Following graduation from the rigorous Codurance Academy I am now working as a Software Craftsman at Codurance in preparation for team assignment.
 
 For my first job after graduation from Makers, I joined a SAAS on-line real estate management company as a developer working with a talented team of ten. In this role I worked on perfecting my web development skills with Ruby and Rails by taking more challenging projects over time. I continued to improve my style of programming - with elements of TDD, OOP and refactoring - and my knowledge of the Ruby eco-system by reading open source library code and building my own. We also worked extensively on APIs, improving tests quality and coverage, and complex Rails upgrades.
 
@@ -88,5 +88,5 @@ __Tech Skills__: Ruby, Ruby on Rails, Sinatra, RSpec, JavaScript, React, Jest, S
 ### Contact
 - Github: [TomSpencerLondon](https://github.com/TomSpencerLondon)
 - Twitter: [@tomspencerr](https://twitter.com/TomSpencerr/media)
-- Youtube: [Rails Mastery](https://www.youtube.com/watch?v=JyM_sRkGaME)
-- Medium: [Blog about coding](https://medium.com/@tomspencer_uk)
+- Youtube: [AWSome Podcast](https://www.youtube.com/watch?v=610u07la0s8&t=852s)
+- Blog: [Blog about coding](https://tomcraftsman.xyz/)
