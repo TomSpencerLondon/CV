@@ -33,7 +33,7 @@ __Tech Skills__: Typescript, React, Java, Ruby, Ruby on Rails, Sinatra, RSpec, J
 
 - Software Craftsman - continued study and development for team assignment
 
-**Codurance **(February 2020 - June 2020)
+**Codurance** (February 2020 - June 2020)
 *Developer*
 
 - Software Apprentice - training for qualification to become Software craftsperson
