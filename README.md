@@ -16,33 +16,31 @@ __Tech Skills__: Typescript, React, Java, Ruby, Ruby on Rails, Sinatra, RSpec, J
 
 ## Projects
 
-| GitHub Repo | Description | Tech | Product | Date 
-| ----------- | ----------- | ---- | ------- | ----
-|[MarsRover](https://github.com/TomSpencerLondon/MarsRoverAPI) | Game | Java, React | [MarsRover](http://mars-rover-fe.s3-website.eu-west-2.amazonaws.com) | July 2020
-|[Retropolis](https://github.com/codurance/Retropolis-BE) | Retro application for agile teams | Java, React | [Retropolis](https://retropolis.codurance.io) | May 2020
-|Private| Rails upgrade for internal lead tracking system | Rails, Ruby| [Homeflow](https://www.homeflow.co.uk/) | March 2019
-| [Bank](https://github.com/TomSpencerLondon/bank_application), personal time| A Rails banking application with Rails, React and full testing| Rails, React |  [Here](https://bankapporganiser.herokuapp.com/)| February 2019
-|Private| Build internal tool to better present test results from our home-built continuous integration system | Ruby, Postgres| [Homeflow](https://www.homeflow.co.uk/)| January 2019
-|Private| Reduce API error rate for our integration with Reapit, Rightmove and Zoopla| Ruby, SQL| [Homeflow](https://www.homeflow.co.uk/) | Dec 2018
-|Private | Improved the presentation of property pages for our partners| HTML, CSS, Javascript, Ruby| [Homeflow](https://www.homeflow.co.uk/) | May 2018
-| [Shouter](https://github.com/TomSpencerLondon/Shouter), personal time| A Facebook style application | Rails, Javascript, ElasticSearch | [Here](https://vast-atoll-20319.herokuapp.com/)| Dec, 2018
-| [Shazam for Art](https://github.com/TomSpencerLondon/shazam_for_art), personal time| A Python application using Machine Learning to name the correct artist of a painting | Python, Django, Sci-kit learn | [Presentation](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater)| Dec, 2017
-
-
+| GitHub Repo                                                  | Description                                                  | Tech           | Product                                                      | Date          |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ | ------------- |
+| [MarsRover](https://github.com/TomSpencerLondon/MarsRoverAPI) | Fun game                                                     | Java, React    | [MarsRover](http://mars-rover-fe.s3-website.eu-west-2.amazonaws.com) | July 2020     |
+| [Retropolis](https://github.com/codurance/Retropolis-BE)     | Retro application for agile teams                            | Java, React    | [Retropolis](https://retropolis.codurance.io)                | May 2020      |
+| [Bank](https://github.com/TomSpencerLondon/bank_application) | Rails banking application with Rails, React and full testing | Rails, React   | [Here](https://bankapporganiser.herokuapp.com/)              | February 2019 |
+| Private                                                      | Internal tool to better present test results from our home-built continuous integration system | Ruby, Postgres | [Homeflow](https://www.homeflow.co.uk/)                      | January 2019  |
+| Private                                                      | Reduce API error rate for our integration with Reapit, Rightmove and Zoopla | Ruby, SQL      | [Homeflow](https://www.homeflow.co.uk/)                      | Dec 2018      |
 
 
 
 ## Experience
-**Codurance**(June 2020 - present)
+
+**Codurance** (June 2020 - present)
 *Software Craftsman*
+
 - Software Craftsman - continued study and development for team assignment
 
-**Codurance**(February 2020 - June 2020)
+**Codurance **(February 2020 - June 2020)
 *Developer*
+
 - Software Apprentice - training for qualification to become Software craftsperson
 
-**Homeflow**(January 2018 - January 2020)
+**Homeflow** (January 2018 - January 2020)
 *Developer*
+
 - Contributor and fellow custodian of broad SAAS Homeflow platform, dev-ops contribution, pair-programmer and knowledge-sharer. 
 
 **The Cedars School** (January 2015 - July 2017) 
@@ -82,8 +80,7 @@ __Tech Skills__: Typescript, React, Java, Ruby, Ruby on Rails, Sinatra, RSpec, J
 ### Interests
 
 - **Music** - Jazz trumpet, piano, guitar and Logic programming. I play regularly with various orchestras including the [Rebel Yell Orchestra](https://www.youtube.com/watch?v=oY3XAV5X0cs)
-- **Yoga** - Basic
-- **Meditation** - Basic
+- **Reading** - Regularly read Ancient Greek with ex-student. Lifelong learner and reader with an impressive library
 
 ### Contact
 - Github: [TomSpencerLondon](https://github.com/TomSpencerLondon)
