@@ -26,20 +26,15 @@ __Tech Skills__: Typescript, React, Java, Ruby, Ruby on Rails, Sinatra, RSpec, J
 
 ## Experience
 
-**Codurance** (June 2020 - present)
-*Software Craftsman*
+**Codurance** (February 2020 - present)
+*Developer / Business Analyst*
 
-- Software Craftsman - continued study and development for team assignment
-
-**Codurance** (February 2020 - June 2020)
-*Developer*
-
-- Software Apprentice - training for qualification to become Software craftsperson
+- Software Developer / Business Analyst
 
 **Homeflow** (January 2018 - January 2020)
 *Developer*
 
-- Contributor and fellow custodian of broad SAAS Homeflow platform, dev-ops contribution, pair-programmer and knowledge-sharer. 
+- Developer on broad SAAS Homeflow platform 
 
 **The Cedars School** (January 2015 - July 2017) 
 *Teacher of Latin and French*
