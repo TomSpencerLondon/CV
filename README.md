@@ -1,83 +1,79 @@
 # Tom Spencer
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Education](#education)
+[Experience](#experience) | [Technical Skills](#technical-skills) | [Education](#education) | [Interests](#interests) | [Contact](#contact)
 
-## Personal Statement
+## About Me
 
-I am an enthusiastic and thorough software developer looking for a role where I can continue to grow my expertise in TDD, Typescript and Java. In my role I want to contribute to a culture focused on learning and craftsmanship within a medium sized team that practices agile and high quality testing. Colleagues might describe me as a team player and that I am creative  and committed.
+A highly capable and experienced software craftsperson focused on creating readable, maintainable, and test-driven code. I thrive in collaborative environments that value learning, craftsmanship, and delivering high-quality software solutions.
 
-I graduated from Makers Academy in 2017 and joined Codurance as a Software Apprentice in 2019. Following graduation from Codurance Academy, I have now built a serverless solution for data transfer and translation from Contentful CMS to MARC [here](https://marc.digitaltheatreplus.com/). I am now working as a Software Craftsperson and Business Analyst for a large [EMR](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7043175/) refactoring project.
-
-For my first job after graduation from Makers, I joined a SAAS on-line real estate management company as a developer working with a talented team of ten. In this role I worked on perfecting my web development skills with Ruby and Rails by taking more challenging projects over time. I continued to improve my style of programming - with elements of TDD, OOP and refactoring - and my knowledge of the Ruby eco-system by reading open source library code and building my own. We also worked extensively on APIs, improving tests quality and coverage, and complex Rails upgrades.
-
-Before switching career, I was working as a languages teacher and college lecturer where I practiced and honed my people skills, communication skills, attention to detail and strong work ethic. I particularly enjoyed teaching Ancient Greek, producing online lessons and organising a series of lectures on Herodotus.
-
-__Tech Skills__: Typescript, React, Java, Ruby, Ruby on Rails, Sinatra, RSpec, JavaScript, React, Jest, SQL, Pair-Programming, Agile, XP Values, AWS, Docker.
-
-## Projects
-
-| GitHub Repo                                                  | Description                                                  | Tech           | Product                                                      | Date          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------- | ------------------------------------------------------------ | ------------- |
-| [Quiz](https://github.com/TomSpencerLondon/Quiz) | Java Learning                                                    | Java | [Quiz](https://pure-fjord-78884.herokuapp.com/) | June 2022     |
-| [Blog](https://github.com/TomSpencerLondon/NextJS-Blog) | Blog on Coding | React   | [Here](https://tomspencerlondon.com/)              | February 2019 |
-| [Retropolis](https://github.com/codurance/Retropolis-BE)     | Retro application for agile teams                            | Java, React    | [Retropolis](https://retropolis.codurance.io)                | May 2020      |
-
-
+---
 
 ## Experience
 
-**Codurance** (February 2020 - present)
-*Developer / Business Analyst*
+**Capgemini, London** – *Software Engineer*  
+_February 2023 – PRESENT_  
+- Built a modular monolith with separate deployments on Azure App Services for DEFRA’s NIRMS export applications.  
+- Worked with Azure Service Bus, Function Apps, and decoupled service communication.  
+- Praised as a “valued team member.”
 
-- Software Developer / Business Analyst
+**Codurance, London** – *Software Engineer*  
+_March 2020 – January 2023_  
+- Delivered interoperability solutions for a large US Electronic Medical Records provider using the FHIR standard.  
+- Implemented a REST API consuming data from Azure Service Bus.  
+- Collaborated with client developers and business owners to ensure project success.
 
-**Homeflow** (January 2018 - January 2020)
-*Developer*
+**Homeflow** – *Software Developer*  
+_March 2018 – February 2020_  
+- Developed APIs for an online real estate CMS and site provider.  
+- Improved testing quality and coverage using TDD and OOP principles.  
+- Delivered complex business solutions and technical enhancements.
 
-- Developer on broad SAAS Homeflow platform 
+**Makers Academy** – *Bootcamp Graduate*  
+_September 2017 – December 2017_  
+- Focused on TDD, OOP, web development, and data persistence.  
+- Gained experience in JavaScript, front-end engineering, and collaborative projects.
 
-**The Cedars School** (January 2015 - July 2017) 
-*Teacher of Latin and French*
+**The Cedars School** – *Latin and French Teacher*  
+_January 2015 – July 2017_  
+- Developed and delivered the Latin curriculum for students aged 11–16.  
+- Organized extracurricular activities, including music and coding clubs.
 
-- Extra-curricular music; After-school coding club; Communication; Reports 
+---
 
-**CityLit College** (September 2014 - May 2017) 
-*Part-time Lecturer in Ancient Greek, Latin and Classical Literature*
-- Writing curriculum; Preparing Lessons 
+## Technical Skills
 
-**Private Tutor: English, French, History, Maths and Latin** (September 2013 - July 2016)
-*Various Agencies and Self Employed* 
+- **Languages**: Java, JavaScript, TypeScript, Ruby, SQL  
+- **Frameworks & Tools**: Spring Boot, React, Ruby on Rails, Cucumber, JUnit, Mockito  
+- **DevOps**: Docker, Azure (Service Bus, DevOps, Function Apps), AWS  
+- **Practices**: Test-Driven Development (TDD), Agile, XP Values, REST API development  
+- **Other**: MySQL, Git, GitHub
 
-**Teaching English as a Foreign Language teacher (LAL college London)** (August 2010 - 2012)
-*Teacher of English* 
-- Writing curriculum; Preparing Lessons
+---
 
-**Primary School Teaching Assistant** (September 2007 - July 2010)
-*Learning Support Assistant*
+## Education
 
-### Education
+**Bristol University**  
+- PhD in Classics, 2009  
+- MA in Classics, 2002  
+- BA in Classics with French, First-Class Honours, 2001  
 
-**King's College London: Classics PGCE** (2013-2013)
-*Teacher training Classics*
+**King’s College London**  
+- PGCE in Classics, 2013  
 
-**South Thames College, Cambridge CELTA** (2010)
-*TEFL teacher training*
+**South Thames College**  
+- Cambridge CELTA (TEFL), 2010  
 
-**Bristol University, PhD in Classics** (2009)
-*Walking through Rome: Walking and a Construction of Subjectivity: A Study of Three Augustan Poets*
+---
 
-**MA in Classics, Bristol University** (2002)
-*Thesis on Ovid's Ars Amatoria*
+## Interests
 
-**BA in Classics with French, Bristol University (First Class Honours)** (2001)
+- **Music**: Jazz trumpet, piano, and guitar; member of various orchestras, including the [Rebel Yell Orchestra](https://www.youtube.com/watch?v=oY3XAV5X0cs).  
+- **Reading**: Lifelong learner with a focus on Ancient Greek literature and an extensive personal library.
 
-### Interests
+---
 
-- **Music** - Jazz trumpet, piano, guitar and Logic programming. I play regularly with various orchestras including the [Rebel Yell Orchestra](https://www.youtube.com/watch?v=oY3XAV5X0cs)
-- **Reading** - Regularly read Ancient Greek with ex-student. Lifelong learner and reader with an impressive library
+## Contact
 
-### Contact
-- Github: [TomSpencerLondon](https://github.com/TomSpencerLondon)
-- Twitter: [@tomspencerr](https://twitter.com/TomSpencerr/media)
-- Youtube: [AWSome Podcast](https://www.youtube.com/watch?v=610u07la0s8&t=852s)
-- Blog: [Blog about coding](https://tomspencerlondon.com/)
+- **GitHub**: [TomSpencerLondon](https://github.com/TomSpencerLondon)  
+- **Twitter**: [@tomspencerr](https://twitter.com/TomSpencerr/media)  
+- **Blog**: [Blog about coding](https://tomspencerlondon.com/)
