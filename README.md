@@ -67,8 +67,8 @@ _January 2015 – July 2017_
 
 ## Interests
 
-- **Music**: Jazz trumpet, piano, and guitar; member of various orchestras, including the [Rebel Yell Orchestra](https://www.youtube.com/watch?v=oY3XAV5X0cs).  
-- **Reading**: Lifelong learner with a focus on Ancient Greek literature and an extensive personal library.
+- **Music**: Jazz trumpet and piano; member of various orchestras, including the [Rebel Yell Orchestra](https://www.youtube.com/watch?v=oY3XAV5X0cs).  
+- **Reading**: Lifelong learner focused on acquiring new skills across Software Development, Mathematics, Music and Literature
 
 ---
 
