@@ -52,6 +52,11 @@ _January 2015 – July 2017_
 
 ## Education
 
+**Makers Academy**
+- software development skills
+- practical hands on learning + collaboration
+- tech job readiness training
+
 **Bristol University**  
 - PhD in Classics, 2009  
 - MA in Classics, 2002  
