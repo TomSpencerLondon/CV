@@ -53,9 +53,8 @@ _January 2015 – July 2017_
 ## Education
 
 **Makers Academy**
-- Software Development skills
-- Practical hands on learning and collaboration
-- Tech job readiness training
+- Software development skills
+- Job readiness training
 
 **Bristol University**  
 - PhD in Classics, 2009  
